@@ -9,8 +9,13 @@ Los autores son parte de la Unidad de Informática Biomédica en Salud Global - 
 La Unidad de Informática Biomédica en Salud Global tiene por finalidad realizar proyectos de investigación y de implementación que se enfoquen en el uso adecuado de las Tecnologías de Información y Comunicación (TIC) para la mejora de los sistemas de salud y de la salud pública. Las principales áreas de investigación son los Sistemas de Información en Salud, la Historia Clínica Electrónica e Interoperabilidad, Salud móvil y Telemedicina.
 
 Equipo:
+
 Cender Quispe. MD
+
 Anthony Bacilio. Ing.
+
 Kevin Montañez: Ing.
+
 Lewis de la Cruz. Ing.
+
 Daniel Condor. BS. RN. MSc
