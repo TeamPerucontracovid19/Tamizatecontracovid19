@@ -1,0 +1,2 @@
+# Tamizatecontracovid19
+TAMIZATE contra el Covid-19 es una aplicación móvil que permite a los usuarios acceder y realizarse un tamizaje temprano sobre los síntomas y signos del Covid-19 (Coronavirus). El aplicativo NO BRINDA UN DIAGNÓSTICO.  El usuario puede hacer libre uso de la aplicación; sin embargo, para hacer uso de servicios específicos será necesario registrar su número de Documento Nacional de Identidad o del número de Pasaporte, que sirve como verificación de dato, algunos datos demográficos y la geolocalización del teléfono.
